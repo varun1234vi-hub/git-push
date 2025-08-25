@@ -1,6 +1,11 @@
 learning self
 
 ## install guiide
-bash
+
+'''bash
 npm install
+'''
 ## end
+'''bash
+npm test
+'''
